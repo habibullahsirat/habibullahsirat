@@ -2,7 +2,7 @@
 
 🎓 Undergraduate BSc in Computer Science and Engineering  
 💻 Passionate about Web Development, IoT, and AI  
-🌱 Currently exploring Laravel, React, and Raspberry Pi projects  
+🌱 Currently exploring Next.js, React, and Raspberry Pi projects  
 
 ---
 
