@@ -7,9 +7,9 @@
 ---
 
 ### 🧰 Skills  
-**Languages:** Python, PHP, JavaScript, Java, HTML, CSS
-**Tools:** Git, XAMPP, Postman  
-**Frameworks/Libraries:** Next.js, React, TailwindCSS
+**Languages:** Python, PHP, JavaScript, Java, HTML, CSS  
+**Tools:** Git, XAMPP, Postman   
+**Frameworks/Libraries:** Next.js, React, TailwindCSS  
 **Hardware/IoT:** ESP32, Raspberry Pi, Sensors  
 
 ---
