@@ -76,32 +76,6 @@ I believe in understanding the fundamentals, writing maintainable code, and cont
 
 <br/>
 
-## Currently exploring
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3000&pause=1000&color=8B9CF6&center=true&vCenter=true&width=550&lines=Full-Stack+Application+Development;Backend+Architecture+%26+API+Design;Database+Design+%26+Optimization;Data+Structures+%26+Algorithms;Computer+Vision+%26+Edge+AI" alt="Current interests"/>
-
-</div>
-
-<br/>
-
-## GitHub at a glance
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=habibullahsirat&show_icons=true&hide_border=true&bg_color=0D1726&title_color=75D9C7&icon_color=8B9CF6&text_color=C8D8E5&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibullahsirat&layout=compact&hide_border=true&bg_color=0D1726&title_color=75D9C7&text_color=C8D8E5" />
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=habibullahsirat&hide_border=true&background=0D1726&ring=75D9C7&fire=8B9CF6&currStreakLabel=75D9C7&sideLabels=C8D8E5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8191A8" />
-
-</div>
-
-<br/>
-
 ## My contribution journey
 
 <div align="center">
