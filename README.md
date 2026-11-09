@@ -80,9 +80,7 @@ I believe in understanding the fundamentals, writing maintainable code, and cont
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=habibullahsirat&bg_color=0D1726&color=C8D8E5&line=75D9C7&point=8B9CF6&area=true&area_color=244B53&hide_border=true&custom_title=Building%20Something%20Every%20Day" alt="Contribution activity graph"/>
 
-<br/><br/>
 
 <img src="https://raw.githubusercontent.com/habibullahsirat/habibullahsirat/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution graph"/>
 
