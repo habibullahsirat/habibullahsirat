@@ -6,15 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3500&pause=1200&color=75D9C7&center=true&vCenter=true&width=650&lines=I+build+things+for+the+web.;I+explore+systems+behind+the+interface.;I+experiment+with+IoT+%26+Edge+AI.;Always+learning.+Always+building." alt="Animated introduction"/>
 
-<br/><br/>
 
-<a href="https://github.com/habibullahsirat">
-<img src="https://komarev.com/ghpvc/?username=habibullahsirat&style=flat&color=234C55&label=PROFILE+VIEWS" alt="Profile views"/>
-</a>
-&nbsp;
-<a href="https://github.com/habibullahsirat?tab=followers">
-<img src="https://img.shields.io/github/followers/habibullahsirat?style=flat&color=234C55&label=FOLLOWERS" alt="Followers"/>
-</a>
 
 </div>
 
